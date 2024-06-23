@@ -111,7 +111,7 @@ class Estoque
     produtos = new Produto[MAX];
   }
 
-  public Produto cadastrarProduto()
+  public void cadastrarProduto()
   {
 
   }
@@ -154,35 +154,35 @@ class Program
           break;
 
         case "2":
-          Console.WriteLine("LISTANDO PRODUTOS");
+          Console.WriteLine("LISTAR PRODUTOS");
 
 
           break;
 
         case "3":
-          Console.WriteLine("PESQUISAR PRODUTO - NOME");
-
+          Console.WriteLine("EDITAR PRODUTO");
 
           break;
 
         case "4":
+          Console.WriteLine("PESQUISAR PRODUTO - NOME");
+          break;
+
+        case "5":
           Console.WriteLine("PESQUISAR PRODUTO - CÓDIGO");
 
           break;
 
-        case "5":
-          Console.WriteLine("CADASTRANDO PRODUTO");
-
-          break;
-
         case "6":
-          Console.WriteLine("CADASTRANDO PRODUTO");
+          Console.WriteLine("PRODUTOS EM ATENÇÃO");
+
           break;
 
         case "7":
           Console.WriteLine("APAGAR PRODUTO");
-
           break;
+
+
 
         case "x":
           keep = false;
