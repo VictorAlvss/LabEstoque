@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\victo.DESKTOP-91APREM\\.nuget\\packages\\": {}
+    "C:\\Users\\victo_wroew6d\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo.DESKTOP-91APREM\\OneDrive\\Área de Trabalho\\LaboratorioEstoque\\LaboratorioEstoque\\LaboratorioEstoque.csproj",
+      "projectUniqueName": "C:\\Users\\victo_wroew6d\\OneDrive\\Área de Trabalho\\lab_estoque\\LaboratorioEstoque\\LaboratorioEstoque.csproj",
       "projectName": "LaboratorioEstoque",
-      "projectPath": "C:\\Users\\victo.DESKTOP-91APREM\\OneDrive\\Área de Trabalho\\LaboratorioEstoque\\LaboratorioEstoque\\LaboratorioEstoque.csproj",
-      "packagesPath": "C:\\Users\\victo.DESKTOP-91APREM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo.DESKTOP-91APREM\\OneDrive\\Área de Trabalho\\LaboratorioEstoque\\LaboratorioEstoque\\obj\\",
+      "projectPath": "C:\\Users\\victo_wroew6d\\OneDrive\\Área de Trabalho\\lab_estoque\\LaboratorioEstoque\\LaboratorioEstoque.csproj",
+      "packagesPath": "C:\\Users\\victo_wroew6d\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\victo_wroew6d\\OneDrive\\Área de Trabalho\\lab_estoque\\LaboratorioEstoque\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\victo.DESKTOP-91APREM\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\victo_wroew6d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
